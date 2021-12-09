@@ -1,0 +1,15 @@
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.json
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.dev.json
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.csproj.AssemblyReference.cache
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.pdb
+/Users/annapittman/Desktop/todo-list-C#/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
